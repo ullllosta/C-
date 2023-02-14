@@ -1,0 +1,11 @@
+C:\Users\Admin\ЛабыПрактосы\Холодов_лаба_16\Холодов_лаба_16\obj\Debug\DataBase.csproj.AssemblyReference.cache
+C:\Users\Admin\ЛабыПрактосы\Холодов_лаба_16\Холодов_лаба_16\obj\Debug\DataBase.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\ЛабыПрактосы\Холодов_лаба_16\Холодов_лаба_16\obj\Debug\Холодов_лаба_16.Form1.resources
+C:\Users\Admin\ЛабыПрактосы\Холодов_лаба_16\Холодов_лаба_16\obj\Debug\Холодов_лаба_16.Properties.Resources.resources
+C:\Users\Admin\ЛабыПрактосы\Холодов_лаба_16\Холодов_лаба_16\obj\Debug\DataBase.csproj.GenerateResource.cache
+C:\Users\Admin\ЛабыПрактосы\Холодов_лаба_16\Холодов_лаба_16\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\Admin\ЛабыПрактосы\Холодов_лаба_16\Холодов_лаба_16\bin\Debug\Холодов_лаба_16.exe.config
+C:\Users\Admin\ЛабыПрактосы\Холодов_лаба_16\Холодов_лаба_16\bin\Debug\Холодов_лаба_16.exe
+C:\Users\Admin\ЛабыПрактосы\Холодов_лаба_16\Холодов_лаба_16\bin\Debug\Холодов_лаба_16.pdb
+C:\Users\Admin\ЛабыПрактосы\Холодов_лаба_16\Холодов_лаба_16\obj\Debug\Холодов_лаба_16.exe
+C:\Users\Admin\ЛабыПрактосы\Холодов_лаба_16\Холодов_лаба_16\obj\Debug\Холодов_лаба_16.pdb
