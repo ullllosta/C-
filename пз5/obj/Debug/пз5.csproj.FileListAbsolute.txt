@@ -1,0 +1,11 @@
+C:\Users\lizay\Новая папка\OneDrive\Рабочий стол\холодов\пз5\bin\Debug\пз5.exe.config
+C:\Users\lizay\Новая папка\OneDrive\Рабочий стол\холодов\пз5\bin\Debug\пз5.exe
+C:\Users\lizay\Новая папка\OneDrive\Рабочий стол\холодов\пз5\bin\Debug\пз5.pdb
+C:\Users\lizay\Новая папка\OneDrive\Рабочий стол\холодов\пз5\obj\Debug\пз5.csproj.AssemblyReference.cache
+C:\Users\lizay\Новая папка\OneDrive\Рабочий стол\холодов\пз5\obj\Debug\пз5.csproj.SuggestedBindingRedirects.cache
+C:\Users\lizay\Новая папка\OneDrive\Рабочий стол\холодов\пз5\obj\Debug\пз5.Form1.resources
+C:\Users\lizay\Новая папка\OneDrive\Рабочий стол\холодов\пз5\obj\Debug\пз5.Properties.Resources.resources
+C:\Users\lizay\Новая папка\OneDrive\Рабочий стол\холодов\пз5\obj\Debug\пз5.csproj.GenerateResource.cache
+C:\Users\lizay\Новая папка\OneDrive\Рабочий стол\холодов\пз5\obj\Debug\пз5.csproj.CoreCompileInputs.cache
+C:\Users\lizay\Новая папка\OneDrive\Рабочий стол\холодов\пз5\obj\Debug\пз5.exe
+C:\Users\lizay\Новая папка\OneDrive\Рабочий стол\холодов\пз5\obj\Debug\пз5.pdb
